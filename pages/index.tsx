@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         <div className="flex flex-col w-screen h-[70vh] md:h-[80vh] lg:h-[90vh] lg:w-[50vw] hover:cursor-grab active:cursor-grabbing">
           <PerlinBlob />
           <div className="hidden lg:block text-center font-light italic">
-            <p>What seperates signal from noise?</p>
+            <p>What separates signal from noise?</p>
             <p>
               3D point cloud with{" "}
               <a
